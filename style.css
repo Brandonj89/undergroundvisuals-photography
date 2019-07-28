@@ -31,7 +31,7 @@ img{
 	height: 100vh;
 	width: 100%;
 	margin: 0;
-	background: url(file:///Users/admin/Desktop/UndergroundVisuals/img/dawid-zawila-256946-unsplash.jpg) no-repeat center/cover;
+	background: url(heroimg.jpg) no-repeat center/cover;
 	position: relative;
   overflow-y: hidden;
 }
