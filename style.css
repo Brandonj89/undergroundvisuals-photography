@@ -157,7 +157,7 @@ nav:hover ul{
 	height: 3px;
 }
 .parallax{
-	background: url(file:///Users/admin/Desktop/UndergroundVisuals/img/todd-diemer-110882-unsplash.jpg) repeat fixed 100%;
+	background: url(parallaximg.jpg) repeat fixed 100%;
 	opacity: .8;
 }
 .parallax-inner{
@@ -252,7 +252,7 @@ margin: 65px 0 0 50px;
 	height: 70vh;
 	width: 100%;
 	margin: auto;
-	background: url(file:///Users/admin/Desktop/UndergroundVisuals/img/_DSC1052-1.jpg) no-repeat 50% 50%;
+	background: url(heroimg-travel.jpg) no-repeat 50% 50%;
 	background-size: cover;
 	display: table;
 }
